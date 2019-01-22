@@ -30,3 +30,5 @@
 
 # Debug files
 *.dSYM/
+.sconsign.dblite
+src/ymodem
